@@ -1,7 +1,7 @@
 # Predicting Football Match Results of Spanish League using Bayesian Hierarchical Model
 Established Bayesian models and leveraged historical data to predict home and away teams’ performance. Achieved over 80% prediction accuracy of winning percentage and 53% of the goal prediction.
 <div align="center">
-<img src=" https://github.com/f0000000x/Football-Prediction-by-Bayesian-Method/blob/master/Images/Banner.png" align=center />
+<img src="https://github.com/f0000000x/Football-Prediction-by-Bayesian-Method/blob/master/Images/Banner.png" align=center />
 </div>
 
 Team Members:
